@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 InputFolder=/mnt/raid1/sambashare/photos/DCIM
-SubFolder=/Marik
+SubFolder=/мы
 OutputFolder=/mnt/raid1/sambashare/photos/JPG
 PreviewFolder=/mnt/raid1/sambashare/photos/JPG.PREVIEWS
 
