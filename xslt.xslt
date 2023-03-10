@@ -5,16 +5,6 @@
       <xsl:value-of select="$path"/>
     </xsl:variable>
 
-<!--    <xsl:param name="path"/>
-    <xsl:variable name="path">
-       <xsl:with-param name="path" select="$path" />
-    </xsl:variable>
-
-    <xsl:variable name="path">
-      <xsl:value-of select="."/>
-    </xsl:variable>
--->
-
     <html>
       <head>
         <title>
